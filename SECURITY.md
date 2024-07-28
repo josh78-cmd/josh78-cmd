@@ -1,4 +1,4 @@
-we take protecting youre data and privacy very seriously icluding using the latest encryption technology and resources # Security Policy  
+we take protecting youre data and privacy very seriously icluding using the latest encryption technology and resources  # Security Policy  
 
 ## Supported Versions
 
@@ -14,8 +14,8 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+how to report a vulnerability upload or send me the file of the vulnerability.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
+ where to go, how often they can expect to get an update on a
+reported vulnerability you can exect to get an update once a monthe, what to expect if the vulnerability is accepted if the vulnerability is accepted we will start to do what we have to do to get the vulnerability patched  or
 declined, etc.
